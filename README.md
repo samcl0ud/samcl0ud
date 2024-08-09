@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @samcl0ud
+- 👀 I’m interested in web development, and roblox scripting.
+- 🌱 I’m currently learning react.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me: builtbysam@proton.me
+- 😄 Pronouns: he/him/his
